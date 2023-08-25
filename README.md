@@ -19,7 +19,8 @@ Hi, My name is **Quang Minh**. I am:
 - 💻 Passionate for building roms.
 - 📫 How to reach me **lonelystartb9x@gmail.com**
 - ⚡ Fun fact **Think it yourself**
-- 🔭 📱 Owning [Xiaomi Mi MIX3](https://en.wikipedia.org/wiki/Xiaomi_Mi_MIX_3) | PERSEUS
+- 🔭 📱 Owning [Xiaomi Mi MIX3](https://files.awarner.co.uk/index.php/s/4CodDAzJbz4Tndg) | PERSEUS
+- 🔭 📱 Owning [Xiaomi Mi 6](https://www.androidfilehost.com/?w=files&flid=336521) | SAGIT
 
 ## 🗃 Projects i'm into:
 - [RisingOS](https://t.me/riceDroidNews)
